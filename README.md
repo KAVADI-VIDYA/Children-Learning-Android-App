@@ -3,3 +3,5 @@ It is an android app where children can enhance their learning ability. In this 
 
 Watch my video created to see how exactly children learning app works
 video is present in my Children-Learning-Android-App repository
+
+Unzip the file to view the video
